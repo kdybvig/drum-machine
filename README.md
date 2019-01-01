@@ -1,1 +1,1 @@
-This project was created for the freeCodeCamp [Front End Libraries - Build a Drum Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine) project.
+This project was created for the freeCodeCamp [Front End Libraries Projects - Build a Drum Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
