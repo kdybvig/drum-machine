@@ -22,6 +22,57 @@
   color: #61dafb;
 }
 
+#drum-machine {
+  width: 400px;
+  margin: 20px auto;
+  height: 500px;
+  background-color: #333;
+  border: 2px solid black;
+  border-radius: 36px;
+  color: black;
+}
+
+#drum-machine h2 {
+  color: #000000;
+}
+
+#pad-section {
+  width: 360px;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.drum-pad {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 48px;
+  background-color: grey;
+  border-radius: 12px;
+  margin-top: 20px;
+  cursor: pointer;
+  box-shadow: 4px 3px 3px 1px;
+}
+
+.drum-pad:active, .drum-pad.active {
+  box-shadow: none;
+  background-color: yellow;
+}
+
+
+#display {
+  width: 120px;
+  margin: 20px auto;
+  height: 16px;
+  padding: 6px;
+  background-color: black;
+  color: #00ff00;
+  border: 2px solid grey;
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
